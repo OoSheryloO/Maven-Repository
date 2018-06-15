@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 14 16:53:50 CST 2018
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1528966430771
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-math\:pom\:2.2 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1528966430772
